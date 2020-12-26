@@ -33,6 +33,6 @@ exports.info = (id, XPTN, corohelp, tampilTanggal, tampilWaktu, instagram, nomer
 ║│ _${nomer}_
 ║╰───────────
 ╠════════════════════
-║ *MADE BY XP-TN*
+║ *MADE BY CAHYO*
 ╚════════════════════`
 }
