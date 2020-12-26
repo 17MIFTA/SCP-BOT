@@ -15,8 +15,8 @@ exports.donate = (id, XPTN, corohelp, tampilTanggal, tampilWaktu, instagram, nom
 ║ *Donasi Ke ${XPTN}*
 ╠════════════════════
 ║├≽️⚜ *OVO*: _COMING SOON_
-║├≽️⚜ *PULSA*: _0816-5466-368_
-║├≽️⚜ *GOPAY*: _COMING SOON_
+║├≽️⚜ *PULSA*: _0812-5240-2180_
+║├≽️⚜ *DANA*: _0812-5240-2180_
 ╠════════════════════
 ║  *${XP-TN}*
 ╠════════════════════
@@ -31,7 +31,7 @@ exports.donate = (id, XPTN, corohelp, tampilTanggal, tampilWaktu, instagram, nom
 ║│ _${nomer}_
 ║╰───────────
 ╠════════════════════
-║ *MADE BY XPTN*
+║ *MADE BY CAHYO*
 ╚════════════════════`
 }
 
