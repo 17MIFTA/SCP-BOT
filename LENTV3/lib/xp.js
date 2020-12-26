@@ -12,10 +12,10 @@ exports.xp = (id, XPTN, corohelp, tampilTanggal, tampilWaktu, instagram, nomer, 
          ───
 ╔══✪〘 INFORMATION 〙✪══
 ║
-╠➥ LENT BOT
+╠➥ SCP-BOT
 ╠➥ 5.0
-╠➥ CREATOR : MASLENT
-╠➥ wa.me/628165466367
+╠➥ CREATOR : CAHYO
+╠➥ wa.me/6281252402180
 ┏❉ *.info*
 ┣❉ *.owner*
 ┗❉ *.donasi*
